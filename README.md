@@ -16,6 +16,6 @@ as I keep building, I'll be using this space to:
 * **Hosting:** GitHub Pages / Vercel
 
 ## connect with me
-email: anton02tran@gmail.com
-linkedin: https://www.linkedin.com/in/anton-tran-479b57380/
-instagram: https://www.instagram.com/antontranm/
+* email: anton02tran@gmail.com
+* linkedin: https://www.linkedin.com/in/anton-tran-479b57380/
+* instagram: https://www.instagram.com/antontranm/
