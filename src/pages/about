@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="About Me | Portfolio">
+  <main class="max-w-4xl mx-auto px-6 py-16 space-y-8">
+    <h1 class="text-4xl font-extrabold text-white">About Me</h1>
+    <p class="text-zinc-400 text-lg leading-relaxed">
+      Write a brief background about your interests in software engineering, embedded systems, and robotics here.
+    </p>
+    <div>
+      <a href="/" class="text-cyan-400 hover:underline">&larr; Back to Home</a>
+    </div>
+  </main>
+</Layout>
